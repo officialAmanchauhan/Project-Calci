@@ -8,5 +8,5 @@
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1ZtSVANKKCxXAaHGsiUuy3u1oGxnVBWny/view?usp=sharing )
+![App Screenshot](https://drive.google.com/file/d/1ZtSVANKKCxXAaHGsiUuy3u1oGxnVBWny/view?usp=sharing
 
